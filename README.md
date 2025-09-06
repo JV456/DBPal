@@ -60,4 +60,44 @@ DBPal/
 
 ---
 
+## 🚀 Installation & Setup
+
+### Prerequisites
+- **Python 3.8+** (recommended: Python 3.10)
+- **Git** for cloning the repository
+- **Database access** (PostgreSQL, MySQL, or SQL Server)
+- **API keys** for LLM providers (OpenAI, Anthropic, etc.)
+
+### Quick Install
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/JV456/DBPal.git
+   cd DBPal
+   ```
+
+2. **Create virtual environment**
+   ```bash
+   # Using venv
+   python -m venv dbpal-env
+   
+   # Activate on Windows
+   dbpal-env\Scripts\activate
+   
+   # Activate on macOS/Linux
+   source dbpal-env/bin/activate
+   ```
+
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Launch the application**
+   ```bash
+   streamlit run app.py
+   ```
+   
+---
+
 *DBPal - Your intelligent database companion for advanced analytics*
