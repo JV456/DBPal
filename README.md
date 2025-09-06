@@ -1,4 +1,4 @@
-# 🧠 DBPal — Chat Naturally with Your Database, Powered by AI
+# 🧠 DBPal — Chat Naturally with Your Database
 
 > **Ask questions in plain English. Get instant SQL, visualizations, insights, and forecasts — no coding needed.**
 
